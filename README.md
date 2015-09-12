@@ -1,3 +1,3 @@
 # OpenGL教程
-  来源与[```OGL dev```](http://ogldev.atspace.co.uk/)。
+  来源于[```OGL dev```](http://ogldev.atspace.co.uk/)。
   
